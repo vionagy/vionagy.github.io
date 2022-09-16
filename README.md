@@ -1,6 +1,6 @@
 # Your personal details
 ### First name: Viola
-### Last name:
+### Last name: Bakaity-Nagy
 
 
 ## 1. Which of the descriptions below accurately describes Git?
