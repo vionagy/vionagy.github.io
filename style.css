@@ -1,0 +1,148 @@
+h1{
+  margin: 0;
+  font-family: Abril Fatface;
+  color: #222 grey;
+  position: relative;
+  top: 200px;
+  text-align: center;
+  font-size: 70px;
+  }
+
+h3{
+  margin: 0;
+  font-family: Abril Fatface;
+  color: #222 grey;
+  position: relative;
+  top: 210px;
+  margin-left: 255px;
+  font-size: 30px;
+}
+
+main{
+  background-image: url("https://raw.githubusercontent.com/green-fox-academy/myfirstapp-syllabus/master/assets/first-website-header.png"); background-size:100% 100%; height: 350px; width: 1100px;
+  margin-top: 0;
+}
+
+header{
+  width: 1100px;
+  margin: 0 auto;
+}
+
+p{
+  font-family: Josefin Sans;
+  color: #222 grey;
+  width: 700px;
+  margin: 0 auto;
+  text-align: left;
+  margin-top: 50px;
+  line-height: 30px;
+}
+
+body {
+  width: 1100px;
+  margin: 0 auto;
+}
+
+li{
+  font-family: Josefin Sans;
+  color: #222 grey;
+  font-size: 20px;
+  width: 600px;
+  margin: 0 auto;
+  text-align: left;
+  line-height: 30px;
+  margin-bottom: 0;
+  margin-left: 250px;
+}
+
+blockquote{
+  font-family: Abril Fatface;
+  font-size: 40px;
+  background-color: #373333;
+  color: white;
+  padding: 40px;
+  width: 600px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+
+blockquote::before{
+  content: "\201C";   
+  font-family: Abril Fatface;
+  font-size: 100px;
+  color: white;
+  position: absolute;
+  left: 420px;
+  top: 670px;
+}
+
+h2{
+  text-transform: uppercase;
+  font-family: Merriweather;
+  width: 600px;
+  margin: 0 auto;
+  text-align: left;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-shadow: 1px 1px 1px #7f7f7f;
+}
+
+p{
+  font-family: Josefin Sans;
+  color: #222 grey;
+  font-size: 20px;
+  width: 600px;
+  margin: 0 auto;
+  margin-top: 40px;
+  
+}
+
+#bekezdes{
+  font-family: Josefin Sans;
+  color: #222 grey;
+  font-size: 15px; 
+  width: 600px;
+  margin: 0 auto;
+  text-align: left;
+  margin-top: 40px;
+  line-height: 20px;
+ }
+
+#idezet::before{
+  content: "\201C";   
+  font-family: Abril Fatface;
+  font-size: 100px;
+  color: white;
+  position: absolute;
+  left: 420px;
+  top: 1420px;
+}
+
+#alcim{
+  font-family: Open Sans;
+  font-size: 15px;
+  width: 600px;
+  margin: 0 auto;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 20px;
+  line-height: 15px;
+}
+
+#kisebb{
+  font-family: Josefin Sans;
+  color: #222 grey;
+  font-size: 15px;
+  line-height: 25px;
+}
+
+#idezet2::before{
+  content: "\201C";   
+  font-family: Abril Fatface;
+  font-size: 100px;
+  color: white;
+  position: absolute;
+  left: 420px;
+  top: 2160px;
+}
